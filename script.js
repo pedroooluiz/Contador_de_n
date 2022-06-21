@@ -14,6 +14,6 @@ function verificar(){
     while(n1 <= n2){
         contar.innerHTML += `${n1} &#128073`
         n1 += n3
-    } 
-    contar.innerHTML += ` Fim`
+    }
 }
+contar.innerHTML += ` Fim`
