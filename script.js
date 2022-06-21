@@ -25,4 +25,3 @@ function verificar(){
         contar.innerHTML += ` Fim`
     }
 }
-contar.innerHTML += ` Fim`
